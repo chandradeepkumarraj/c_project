@@ -20,9 +20,10 @@ A console-based C application for managing live cricket match scores with colorf
 
 ## 📱 Demo
 
-```
+
 ![Score Board](./Cricket_Score_Display/demo_screen.jpeg)
-```
+
+
 
 ## 🚀 Quick Start
 
