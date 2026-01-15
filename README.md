@@ -109,9 +109,7 @@ January 2025
 ## 📄 License
 MIT License - Feel free to use and modify!
 
----
-
 ⭐ **Star this repo if useful!**  
 📁 **Clone & compile**: `git clone <repo-url>`  
 🐛 **Issues?** Open a ticket!
-```
+
